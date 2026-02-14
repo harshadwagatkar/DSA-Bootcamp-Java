@@ -52,6 +52,7 @@ Done 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/
 8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 (Done)
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+(Done)
 10. [House Robber](https://leetcode.com/problems/house-robber/)
 
 ### Hard
